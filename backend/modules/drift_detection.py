@@ -4,6 +4,21 @@ import numpy as np
 from scipy.stats import ks_2samp, chi2_contingency
 
 
+def format_p_value(p_value):
+    """
+    Format p-values for easy display without losing precision.
+    """
+
+    if p_value == 0:
+        return "< 1e-300"
+
+    elif p_value < 0.0001:
+        return f"{p_value:.2e}"
+
+    else:
+        return f"{p_value:.6f}"
+
+
 def detect_data_drift(reference_df, current_df, significance_level=0.05):
 
     if reference_df is None or current_df is None:
@@ -12,9 +27,12 @@ def detect_data_drift(reference_df, current_df, significance_level=0.05):
     if reference_df.empty or current_df.empty:
         raise ValueError("Datasets cannot be empty.")
 
-    common_columns = list(
-        set(reference_df.columns) & set(current_df.columns)
-    )
+    # Find common columns while preserving their original order
+    common_columns = [
+        column
+        for column in reference_df.columns
+        if column in current_df.columns
+    ]
 
     if not common_columns:
         raise ValueError("No common features found between datasets.")
@@ -41,13 +59,16 @@ def detect_data_drift(reference_df, current_df, significance_level=0.05):
             ).dropna()
 
             if len(ref_values) < 2 or len(cur_values) < 2:
+
                 results.append({
                     "feature": column,
                     "feature_type": "Numerical",
                     "status": "Insufficient Data",
                     "p_value": None,
+                    "p_value_display": "Not Available",
                     "drift_detected": False
                 })
+
                 continue
 
             # Kolmogorov-Smirnov test
@@ -55,6 +76,8 @@ def detect_data_drift(reference_df, current_df, significance_level=0.05):
                 ref_values,
                 cur_values
             )
+
+            p_value = float(p_value)
 
             drift_detected = p_value < significance_level
 
@@ -68,9 +91,11 @@ def detect_data_drift(reference_df, current_df, significance_level=0.05):
                     float(statistic), 4
                 ),
 
-                "p_value": round(
-                    float(p_value), 6
-                ),
+                # Preserve actual p-value
+                "p_value": p_value,
+
+                # Readable p-value for display
+                "p_value_display": format_p_value(p_value),
 
                 "reference_mean": round(
                     float(ref_values.mean()), 2
@@ -133,6 +158,8 @@ def detect_data_drift(reference_df, current_df, significance_level=0.05):
                     contingency_table
                 )
 
+            p_value = float(p_value)
+
             drift_detected = p_value < significance_level
 
             results.append({
@@ -145,9 +172,11 @@ def detect_data_drift(reference_df, current_df, significance_level=0.05):
                     float(statistic), 4
                 ),
 
-                "p_value": round(
-                    float(p_value), 6
-                ),
+                # Preserve actual p-value
+                "p_value": p_value,
+
+                # Readable p-value for display
+                "p_value_display": format_p_value(p_value),
 
                 "drift_detected": bool(drift_detected),
 

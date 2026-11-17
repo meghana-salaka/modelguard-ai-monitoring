@@ -1,0 +1,501 @@
+tenure,monthly_charges,total_charges,contract_type,internet_service
+39,66.98,2610.27,One Year,Fiber
+52,54.73,2585.25,One Year,No
+29,64.52,1298.12,Two Year,No
+15,58.58,2055.15,Monthly,DSL
+43,43.54,1720.95,Monthly,No
+8,69.29,2203.3,One Year,No
+21,60.03,1991.81,Monthly,Fiber
+39,65.96,615.14,Monthly,DSL
+58,54.28,1625.99,Monthly,DSL
+19,60.98,1899.28,Monthly,DSL
+23,83.72,1082.82,Two Year,No
+11,66.54,2090.51,Monthly,DSL
+11,71.59,1037.99,Monthly,No
+24,49.75,1400.78,Monthly,No
+53,93.67,2470.66,Monthly,Fiber
+36,87.12,1358.11,Monthly,Fiber
+40,81.36,2086.98,Monthly,Fiber
+24,74.95,923.21,Monthly,Fiber
+3,65.18,2840.66,One Year,Fiber
+22,70.3,1647.72,Monthly,No
+53,77.58,1847.66,Monthly,No
+2,57.46,1889.52,Two Year,DSL
+24,59.67,2103.78,One Year,No
+44,44.97,1040.41,Monthly,No
+30,55.74,1797.33,Monthly,Fiber
+38,84.94,1470.62,Monthly,No
+2,60.99,955.22,One Year,Fiber
+21,61.19,2293.56,Two Year,DSL
+33,68.81,1623.91,One Year,DSL
+12,45.65,1921.26,Monthly,No
+58,76.34,1889.92,One Year,DSL
+22,80.2,1632.57,Monthly,No
+44,69.53,2787.51,Monthly,DSL
+25,84.82,1776.37,Monthly,Fiber
+49,49.08,1021.02,Two Year,Fiber
+27,87.12,1599.81,Monthly,Fiber
+59,56.23,2049.87,One Year,Fiber
+42,49.64,2066.3,Monthly,No
+28,62.15,1256.11,Monthly,DSL
+16,87.46,2264.74,Monthly,No
+15,64.77,918.57,Monthly,Fiber
+47,53.81,2372.07,One Year,No
+51,49.46,1140.33,Monthly,DSL
+44,63.74,1686.88,One Year,No
+55,41.06,2332.28,One Year,DSL
+52,49.4,1859.8,Two Year,No
+57,83.52,2208.35,Monthly,DSL
+3,80.88,2109.33,Monthly,DSL
+37,63.46,2443.13,Monthly,Fiber
+51,59.41,2331.1,Two Year,DSL
+7,65.7,1573.13,Two Year,Fiber
+21,93.18,2116.47,Monthly,Fiber
+9,69.86,1036.72,One Year,Fiber
+39,75.92,1771.05,Monthly,No
+18,62.57,2209.24,One Year,No
+4,65.73,1866.92,Monthly,No
+25,72.77,2023.32,One Year,No
+14,66.51,1693.36,Monthly,DSL
+50,42.23,2364.53,One Year,DSL
+58,80.37,1759.79,One Year,No
+9,57.62,1567.27,One Year,DSL
+26,90.34,2243.26,Monthly,DSL
+53,73.24,1097.42,Monthly,Fiber
+2,65.85,2050.52,Monthly,Fiber
+20,70.27,1278.76,Monthly,Fiber
+28,63.7,2438.96,Monthly,Fiber
+47,59.16,1669.49,Two Year,DSL
+7,67.49,1867.49,Monthly,No
+44,75.62,2006.29,Monthly,DSL
+8,59.43,835.16,Monthly,DSL
+47,57.53,1474.71,Monthly,DSL
+35,60.73,2321.77,One Year,Fiber
+14,76.42,2233.88,Monthly,Fiber
+17,82.43,1941.52,Two Year,Fiber
+36,69.34,1125.27,Monthly,No
+50,71.98,2092.75,Two Year,DSL
+40,57.44,2156.7,Two Year,No
+4,75.52,1823.51,Monthly,Fiber
+2,71.62,2411.59,Two Year,No
+6,56.48,1458.28,Monthly,DSL
+54,43.55,1545.07,One Year,DSL
+42,50.35,557.69,Monthly,Fiber
+4,56.97,2259.91,Two Year,Fiber
+54,78.94,1956.93,Two Year,No
+29,83.63,959.09,One Year,Fiber
+18,59.73,920.7,One Year,Fiber
+26,60.11,1363.68,Monthly,DSL
+44,68.14,2196.83,Monthly,Fiber
+34,65.15,1649.82,Monthly,Fiber
+10,76.17,1397.61,Monthly,DSL
+36,58.72,1296.94,One Year,DSL
+14,76.39,1274.54,Monthly,No
+31,62.13,833.16,Two Year,Fiber
+48,75.25,1196.3,One Year,DSL
+15,61.75,1264.71,One Year,No
+8,57.64,2141.31,Monthly,No
+14,87.95,1717.14,Two Year,Fiber
+23,77.78,1387.21,Two Year,Fiber
+57,43.5,2954.86,Monthly,No
+40,59.64,1468.05,One Year,DSL
+21,79.46,2383.55,One Year,No
+16,50.64,2610.55,Monthly,Fiber
+45,74.25,1015.02,Monthly,DSL
+18,73.0,1836.98,Monthly,DSL
+47,56.61,1541.23,Monthly,No
+53,64.89,1500.54,Monthly,Fiber
+24,39.92,2077.69,Monthly,No
+26,86.25,1488.56,Monthly,No
+25,61.29,1552.02,Monthly,No
+45,74.65,1715.94,Two Year,DSL
+41,72.37,1613.3,Monthly,DSL
+29,81.29,1213.21,Two Year,Fiber
+15,59.8,2197.95,Monthly,Fiber
+45,67.45,2324.27,Monthly,No
+1,71.71,1971.81,Monthly,No
+25,75.47,1611.72,Monthly,No
+7,78.85,1447.39,Monthly,Fiber
+9,59.27,1448.19,One Year,DSL
+24,57.03,2978.69,Monthly,DSL
+1,81.32,2268.92,One Year,No
+44,40.56,1379.94,One Year,No
+8,83.84,1882.35,Monthly,No
+24,61.37,1618.73,Monthly,No
+11,64.95,2091.9,One Year,Fiber
+51,56.81,2071.75,Monthly,DSL
+17,64.42,2341.8,Monthly,No
+8,80.25,1374.72,Two Year,Fiber
+35,74.25,1852.37,Monthly,No
+35,70.91,925.73,One Year,No
+33,66.07,1171.33,Two Year,DSL
+59,47.65,2242.05,Monthly,No
+5,54.87,1324.66,Monthly,DSL
+42,60.88,1379.55,Monthly,DSL
+39,70.49,1795.86,Monthly,DSL
+58,65.84,2147.38,Monthly,Fiber
+41,76.8,1269.59,One Year,Fiber
+28,70.68,59.6,Monthly,DSL
+7,65.65,1364.89,Monthly,No
+9,92.31,2402.81,Two Year,DSL
+8,69.87,1971.57,One Year,No
+12,59.82,2461.94,One Year,DSL
+34,87.32,1234.09,Monthly,No
+33,79.4,980.3,One Year,Fiber
+48,86.79,2031.27,Monthly,No
+55,63.67,1920.01,Monthly,DSL
+23,76.72,1952.78,Monthly,Fiber
+24,47.57,2266.5,Two Year,No
+37,74.41,2010.84,Monthly,No
+35,63.11,2002.81,Monthly,No
+44,48.74,2157.5,Monthly,No
+40,77.39,2051.21,Monthly,No
+22,43.28,2228.72,One Year,Fiber
+27,42.05,2304.26,One Year,Fiber
+35,69.35,2565.84,One Year,Fiber
+1,71.86,1475.4,Monthly,Fiber
+35,76.65,2040.28,Monthly,DSL
+37,73.9,1614.84,Monthly,Fiber
+47,82.72,1383.22,Monthly,No
+14,73.4,1455.23,Monthly,No
+3,63.41,2047.48,One Year,Fiber
+1,64.12,2009.13,Monthly,No
+5,61.61,2000.21,Monthly,Fiber
+26,68.55,1687.14,Monthly,No
+55,51.83,1801.71,Monthly,DSL
+14,69.09,2208.88,Monthly,DSL
+39,63.96,1055.3,Two Year,Fiber
+27,68.31,1812.32,One Year,Fiber
+9,68.34,1844.98,Two Year,Fiber
+15,35.57,2176.65,Monthly,No
+15,54.18,1124.88,Monthly,Fiber
+26,63.7,2547.57,Monthly,DSL
+42,64.33,1906.82,Monthly,No
+13,68.11,1933.29,One Year,Fiber
+51,68.63,1599.31,Monthly,No
+32,83.19,2069.01,Monthly,No
+39,68.75,1823.98,Monthly,Fiber
+49,61.24,2404.49,Monthly,No
+52,45.81,1079.25,One Year,DSL
+32,48.58,1887.77,Monthly,DSL
+4,71.43,2004.26,Monthly,No
+30,77.73,1706.81,Monthly,Fiber
+37,83.5,1597.67,Monthly,No
+23,55.07,1618.52,One Year,DSL
+39,61.35,1887.32,Two Year,No
+45,67.91,895.02,Two Year,No
+15,89.57,2282.51,One Year,DSL
+43,66.38,1559.93,Monthly,No
+29,83.62,1863.9,One Year,No
+36,67.04,1983.55,Monthly,Fiber
+13,78.84,1537.1,Monthly,Fiber
+32,77.32,1734.48,One Year,DSL
+7,66.99,782.38,Monthly,DSL
+59,52.76,2166.06,Two Year,DSL
+51,61.77,2340.03,Monthly,Fiber
+22,82.87,949.5,One Year,DSL
+28,75.53,1596.75,One Year,DSL
+2,59.8,1185.07,Two Year,DSL
+42,60.89,1711.13,One Year,Fiber
+45,44.23,2124.32,One Year,No
+57,82.33,2293.65,Monthly,DSL
+53,75.63,2360.93,Monthly,No
+6,63.36,2455.27,Monthly,DSL
+28,67.4,1688.79,One Year,No
+28,38.95,1226.52,Monthly,Fiber
+44,59.16,1742.7,One Year,Fiber
+44,81.01,2116.63,Monthly,DSL
+20,76.78,1186.37,Monthly,No
+30,68.97,2630.07,One Year,Fiber
+11,64.82,2248.94,Monthly,DSL
+58,74.56,1696.72,Monthly,DSL
+55,61.62,1444.56,Monthly,Fiber
+28,45.02,1465.44,Two Year,Fiber
+25,64.93,1837.1,One Year,DSL
+39,69.84,1685.3,Monthly,No
+33,78.47,2275.25,Monthly,No
+1,47.71,1628.51,Monthly,No
+57,63.53,2052.75,One Year,DSL
+27,64.1,1785.54,One Year,Fiber
+57,51.78,1934.83,Monthly,DSL
+52,70.85,1684.97,Monthly,Fiber
+13,73.97,2153.86,Monthly,No
+41,61.51,2161.27,One Year,No
+3,89.66,2029.96,One Year,Fiber
+39,61.17,2103.76,Monthly,Fiber
+6,59.64,1327.82,Monthly,DSL
+8,59.29,1961.62,Monthly,No
+27,55.21,2424.6,Two Year,DSL
+9,58.29,2045.7,Monthly,DSL
+37,47.79,1284.64,One Year,DSL
+33,62.7,1775.12,One Year,No
+51,65.69,1987.49,Monthly,DSL
+42,37.61,1421.3,Monthly,DSL
+44,63.78,1120.86,Monthly,DSL
+24,65.51,1641.95,One Year,DSL
+15,71.18,1429.58,One Year,DSL
+59,79.46,1792.86,One Year,DSL
+54,75.22,1004.3,Monthly,No
+32,57.56,2082.35,Monthly,DSL
+32,56.16,1482.7,Two Year,Fiber
+24,71.95,2297.88,One Year,DSL
+41,58.43,1661.55,Monthly,DSL
+52,50.26,1787.31,Two Year,No
+49,93.49,1713.48,One Year,No
+49,61.27,1455.92,Monthly,Fiber
+58,57.48,3036.14,One Year,Fiber
+52,38.69,1552.07,One Year,No
+12,75.22,2311.76,One Year,No
+39,53.14,1253.19,Monthly,DSL
+2,65.34,1986.07,Monthly,No
+3,76.62,2039.44,Two Year,Fiber
+49,53.33,1787.91,Monthly,DSL
+37,65.95,1514.5,Monthly,Fiber
+49,83.29,1668.34,Monthly,DSL
+56,35.52,1598.36,Monthly,No
+17,55.27,3001.01,One Year,Fiber
+59,54.15,1788.7,Two Year,DSL
+49,62.76,2062.44,Monthly,DSL
+2,64.43,2690.81,Monthly,No
+2,52.26,1361.84,Monthly,No
+28,57.15,1818.83,Two Year,No
+54,55.72,1665.41,One Year,Fiber
+23,60.79,1756.93,Monthly,DSL
+37,67.62,1710.49,One Year,No
+32,75.93,1434.06,Two Year,Fiber
+33,77.66,1897.71,One Year,Fiber
+1,72.84,1268.68,Two Year,Fiber
+19,54.51,2294.44,Monthly,No
+2,64.96,2111.65,One Year,No
+53,93.49,1553.27,Monthly,DSL
+44,77.17,1577.51,One Year,DSL
+26,59.71,1937.76,One Year,No
+32,83.98,1400.73,One Year,Fiber
+6,60.34,2705.99,One Year,Fiber
+32,56.98,1978.96,Monthly,Fiber
+55,81.75,1996.63,Monthly,DSL
+4,49.28,2140.72,Two Year,Fiber
+55,42.03,1510.27,Two Year,DSL
+11,76.3,2344.5,Monthly,DSL
+56,65.33,1857.27,Monthly,Fiber
+59,66.53,2275.07,Monthly,Fiber
+17,60.66,1701.02,One Year,No
+38,62.14,2458.64,One Year,No
+24,59.5,2000.67,Monthly,Fiber
+5,57.49,2891.25,Monthly,DSL
+52,60.42,1615.24,One Year,DSL
+34,60.04,1902.27,One Year,DSL
+6,55.06,1284.21,Monthly,DSL
+22,58.46,1535.35,Monthly,DSL
+11,34.97,2109.34,Monthly,No
+48,73.22,2364.66,Monthly,Fiber
+16,69.68,3282.51,Monthly,No
+33,63.98,1751.69,One Year,DSL
+9,67.85,1333.39,Two Year,DSL
+59,68.28,2176.66,One Year,DSL
+6,56.31,1236.09,One Year,DSL
+16,58.61,2082.14,Monthly,Fiber
+29,71.34,1548.87,Monthly,DSL
+3,67.49,1905.8,Monthly,Fiber
+20,89.52,2345.52,Monthly,DSL
+59,84.44,1744.63,One Year,Fiber
+36,76.2,2266.44,Two Year,No
+19,55.86,2236.58,Monthly,DSL
+26,58.23,867.83,Monthly,Fiber
+3,52.98,1349.2,One Year,No
+19,68.36,1019.1,Monthly,DSL
+20,32.11,2800.87,Monthly,DSL
+32,59.5,1747.3,One Year,DSL
+7,61.32,2690.41,One Year,Fiber
+52,46.71,983.52,Monthly,Fiber
+41,74.57,1513.62,Monthly,No
+33,51.33,2200.25,One Year,Fiber
+40,68.21,1889.64,Monthly,Fiber
+39,98.41,2066.43,Monthly,DSL
+18,45.67,1173.1,One Year,DSL
+40,63.22,2488.4,Monthly,DSL
+1,60.11,2188.51,One Year,DSL
+11,57.78,2000.81,Monthly,DSL
+28,74.12,1457.19,Two Year,DSL
+57,78.28,1961.9,Monthly,DSL
+25,74.26,1654.26,Monthly,No
+50,56.32,974.75,Monthly,No
+23,94.21,1774.79,Monthly,No
+31,43.76,1721.63,Two Year,No
+30,52.61,2331.2,Two Year,DSL
+42,67.04,682.79,Monthly,No
+35,66.07,1917.6,Monthly,DSL
+7,70.86,1222.22,One Year,No
+16,83.96,1959.61,Two Year,Fiber
+26,63.56,1987.14,Monthly,No
+48,66.36,1756.58,Monthly,No
+57,57.87,2203.65,Monthly,DSL
+52,72.06,1177.12,One Year,No
+49,61.18,2353.86,Monthly,Fiber
+2,61.17,1445.96,One Year,DSL
+1,71.52,1022.05,Monthly,DSL
+48,77.42,1663.8,One Year,No
+12,38.5,752.42,Monthly,DSL
+5,69.33,1927.09,Monthly,DSL
+37,61.76,1670.37,Monthly,DSL
+32,76.37,2416.84,One Year,DSL
+59,62.0,2124.46,Monthly,DSL
+55,80.61,1104.0,Monthly,DSL
+9,56.88,1380.81,Monthly,Fiber
+41,38.24,2060.33,Monthly,No
+35,77.62,2223.54,One Year,Fiber
+19,54.88,2411.25,One Year,DSL
+48,46.04,2407.25,One Year,DSL
+16,65.19,1755.24,Monthly,No
+3,62.13,1981.33,One Year,Fiber
+20,74.88,2449.37,Monthly,No
+24,75.71,1648.35,Monthly,Fiber
+54,66.15,1989.86,Monthly,DSL
+56,54.38,1636.56,Monthly,No
+33,68.44,1524.53,One Year,No
+24,66.98,1824.19,One Year,DSL
+52,71.83,1456.23,One Year,No
+11,54.5,1734.54,Monthly,Fiber
+49,60.2,1282.52,Monthly,Fiber
+8,71.11,1705.0,Monthly,Fiber
+36,79.97,2024.2,Monthly,Fiber
+38,76.59,1505.62,Monthly,DSL
+40,65.98,1804.65,Monthly,No
+20,59.15,1869.67,Monthly,Fiber
+35,69.85,2026.27,Monthly,DSL
+48,51.9,1733.21,One Year,No
+25,55.2,2342.93,Two Year,No
+35,83.12,749.54,Two Year,DSL
+25,69.82,3268.88,One Year,DSL
+29,60.83,1364.43,Monthly,Fiber
+18,74.95,2001.7,One Year,No
+46,80.44,1330.77,One Year,No
+18,59.66,2122.13,Monthly,DSL
+2,59.87,1938.28,Monthly,No
+54,58.37,1474.64,One Year,Fiber
+35,76.57,2336.54,Monthly,No
+16,76.68,1718.02,Monthly,DSL
+41,81.63,2073.61,Monthly,DSL
+36,77.1,1341.42,Monthly,Fiber
+33,45.41,1784.56,Monthly,Fiber
+4,68.37,2801.7,Monthly,No
+33,52.3,2281.48,Monthly,No
+14,58.85,1953.81,Monthly,DSL
+21,67.05,1575.54,One Year,Fiber
+48,75.03,1833.75,Monthly,Fiber
+20,54.31,1898.78,Monthly,Fiber
+56,37.1,2024.61,Monthly,No
+8,67.17,1261.67,Two Year,Fiber
+7,96.72,2134.2,Monthly,DSL
+3,62.57,1255.2,Monthly,DSL
+17,65.56,2615.56,Two Year,No
+33,86.39,1414.19,One Year,No
+48,72.08,1948.31,Monthly,Fiber
+12,67.6,2302.57,One Year,No
+59,70.31,1673.81,Monthly,DSL
+51,68.0,1970.3,Monthly,Fiber
+22,51.32,2517.59,Monthly,DSL
+55,48.9,2082.2,Monthly,Fiber
+22,87.64,1977.78,One Year,No
+46,67.21,957.61,Monthly,Fiber
+30,66.2,1333.14,Monthly,Fiber
+38,63.92,2323.46,One Year,DSL
+38,74.37,2084.98,One Year,DSL
+45,95.46,2160.73,Monthly,Fiber
+51,71.29,2117.7,One Year,No
+54,57.94,2444.88,Monthly,No
+8,63.4,1669.3,One Year,DSL
+27,77.85,1860.25,One Year,No
+27,58.01,1285.66,Two Year,DSL
+34,75.23,1160.99,Monthly,No
+21,37.15,978.13,Monthly,Fiber
+30,62.24,1357.42,Monthly,DSL
+33,72.54,2576.28,Monthly,DSL
+28,80.24,1023.64,Monthly,Fiber
+47,55.18,1648.23,Two Year,DSL
+33,46.97,1153.43,Monthly,No
+5,61.87,1499.51,Monthly,No
+48,51.49,1884.85,One Year,DSL
+19,63.21,1449.94,Monthly,No
+4,64.92,2344.83,One Year,DSL
+35,49.17,2566.99,Monthly,Fiber
+49,74.65,675.45,Monthly,DSL
+17,63.11,1458.5,Monthly,Fiber
+44,77.97,1829.57,Monthly,No
+28,42.86,2363.06,Two Year,Fiber
+30,52.79,1572.88,Monthly,No
+29,71.2,1790.03,Monthly,DSL
+46,55.41,1221.63,Monthly,No
+53,63.03,1033.6,Monthly,DSL
+6,65.01,2522.69,Two Year,DSL
+35,66.9,887.97,Monthly,Fiber
+41,56.87,2964.31,One Year,Fiber
+37,66.79,2162.58,Two Year,Fiber
+24,55.61,2139.99,Monthly,Fiber
+29,73.09,2087.73,Two Year,No
+49,63.62,1673.66,Monthly,No
+46,66.86,1996.04,Monthly,No
+53,95.84,1705.55,Monthly,DSL
+31,51.71,2076.54,One Year,No
+35,81.66,1783.16,Two Year,No
+33,33.09,1324.83,Monthly,No
+52,40.06,1364.71,One Year,Fiber
+21,50.11,1307.86,Monthly,No
+32,50.87,2285.45,Monthly,DSL
+23,67.44,1491.28,Monthly,Fiber
+33,68.48,843.95,Two Year,DSL
+3,61.94,1998.42,One Year,No
+18,63.2,2557.26,Monthly,Fiber
+25,71.33,2186.54,Monthly,DSL
+42,75.0,1498.34,Monthly,No
+31,49.08,1006.59,Monthly,DSL
+54,60.66,1732.87,Monthly,DSL
+58,64.16,1720.39,Two Year,DSL
+3,70.82,1315.4,Monthly,No
+40,55.73,2075.52,Monthly,No
+46,63.93,2723.31,Monthly,DSL
+24,65.36,1911.14,Two Year,Fiber
+50,56.55,1880.24,One Year,Fiber
+32,56.26,1331.39,Monthly,No
+47,66.18,2498.71,One Year,No
+22,63.44,1762.43,Monthly,No
+23,71.01,1510.52,Monthly,No
+2,52.36,1831.84,Monthly,No
+27,60.79,2035.98,Monthly,Fiber
+42,62.25,1869.61,Monthly,No
+2,74.77,2403.08,Two Year,DSL
+26,53.72,1991.99,One Year,DSL
+17,67.82,1658.03,One Year,Fiber
+40,68.03,2000.6,Monthly,DSL
+33,84.76,2049.82,Monthly,Fiber
+9,52.91,1151.81,One Year,Fiber
+43,57.11,2374.71,Monthly,DSL
+54,53.75,1649.55,Monthly,No
+48,44.96,1662.34,Monthly,DSL
+39,86.18,2175.69,One Year,DSL
+29,50.1,2173.58,Monthly,Fiber
+42,55.2,1449.58,Monthly,DSL
+55,80.79,2201.45,One Year,Fiber
+26,43.96,1519.78,Monthly,No
+35,74.08,2709.79,Monthly,No
+50,48.04,1385.9,Monthly,No
+25,79.96,1919.74,Monthly,DSL
+24,38.96,1408.99,One Year,Fiber
+13,43.96,2911.35,Monthly,No
+58,58.46,1181.09,Monthly,Fiber
+7,76.66,2062.18,Two Year,Fiber
+57,64.63,1432.54,Two Year,No
+36,60.97,1622.95,Two Year,No
+45,81.15,2026.77,Monthly,Fiber
+20,90.86,2412.29,Monthly,No
+1,73.07,2611.7,Two Year,Fiber
+8,57.53,1031.53,One Year,Fiber
+46,59.98,1933.88,Monthly,No
+16,49.54,2529.75,Monthly,DSL
+14,66.21,957.34,Monthly,No
+12,45.44,1957.19,Two Year,DSL
+51,71.62,1798.96,Monthly,Fiber
+23,89.07,2007.27,Monthly,Fiber
+15,73.61,1413.85,Monthly,DSL
+28,59.37,1082.19,One Year,Fiber
+34,71.32,843.45,One Year,DSL
